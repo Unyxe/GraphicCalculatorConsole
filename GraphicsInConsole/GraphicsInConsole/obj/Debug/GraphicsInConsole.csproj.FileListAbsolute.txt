@@ -1,0 +1,7 @@
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\GraphicsInConsole\GraphicsInConsole\bin\Debug\GraphicsInConsole.exe.config
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\GraphicsInConsole\GraphicsInConsole\bin\Debug\GraphicsInConsole.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\GraphicsInConsole\GraphicsInConsole\bin\Debug\GraphicsInConsole.pdb
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\GraphicsInConsole\GraphicsInConsole\obj\Debug\GraphicsInConsole.csprojAssemblyReference.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\GraphicsInConsole\GraphicsInConsole\obj\Debug\GraphicsInConsole.csproj.CoreCompileInputs.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\GraphicsInConsole\GraphicsInConsole\obj\Debug\GraphicsInConsole.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\GraphicsInConsole\GraphicsInConsole\obj\Debug\GraphicsInConsole.pdb
